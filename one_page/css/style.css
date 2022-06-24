@@ -1,0 +1,24 @@
+body{
+    background-color: darkolivegreen;
+}
+
+.monketime{
+    
+    text-align: center;
+    display:inline;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+   
+  }
+  .navigation{
+    border: 5px outset green;
+    background-color: greenyellow;
+    text-align:center;
+  }
+  .image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  }
